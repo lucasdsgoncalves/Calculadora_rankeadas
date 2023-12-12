@@ -25,7 +25,7 @@ if(resultado <= 10){
 	rank = "Imortal"
 }
     
-//mensagem imprimida
+//Saída
 console.log("O Herói tem saldo de " + resultado + " está no nível de " + rank)
 
 //função
